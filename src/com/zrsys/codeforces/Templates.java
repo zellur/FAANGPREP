@@ -1,4 +1,4 @@
-package com.zrsys.Codeforces;
+package com.zrsys.codeforces;
 
 import java.util.ArrayList;
 import java.util.List;

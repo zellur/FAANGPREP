@@ -1,4 +1,4 @@
-package com.zrsys.Codeforces;
+package com.zrsys.codeforces;
 
 import java.math.BigDecimal;
 import java.util.Scanner;

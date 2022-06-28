@@ -1,4 +1,4 @@
-package com.zrsys.Codeforces.SIT;
+package com.zrsys.codeforces.SIT;
 
 import java.util.Scanner;
 import java.util.stream.IntStream;
