@@ -1,4 +1,4 @@
-package com.zrsys.leetcode.algorith;
+package com.zrsys.leetcode.algorithm;
 
 public class BinaryTree {
     /*
